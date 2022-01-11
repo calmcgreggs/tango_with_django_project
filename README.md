@@ -1,5 +1,12 @@
 # tango_with_django_project
 
-Chapter Tests Passed So Far:
+Chapter Tests Progress
 
-3,4,5
+Chapter 3  - Y
+Chapter 4  - Y
+Chapter 5  - Y
+Chapter 6  - N
+Chapter 7  - N
+Chapter 8  - N
+Chapter 9  - N
+Chapter 10 - N
