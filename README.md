@@ -7,6 +7,6 @@ Chapter 4  - Y
 Chapter 5  - Y  
 Chapter 6  - Y  
 Chapter 7  - Y  
-Chapter 8  - N  
+Chapter 8  - Y  
 Chapter 9  - N  
 Chapter 10 - N  
