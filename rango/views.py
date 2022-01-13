@@ -89,6 +89,7 @@ def add_page(request, category_name_slug):
     context_dict = {"form" : form, "category" : category}
     return render(request, "rango/add_page.html", context = context_dict)
 
+"""
 def register(request):
     registered = False
 
@@ -139,14 +140,19 @@ def user_login(request):
     else:
         return render(request, "rango/login.html")
 
+"""
+
 @login_required
 def restricted(request):
     return render(request, "rango/restricted.html")
 
+"""
 @login_required
 def user_logout(request):
     logout(request)
     return redirect(reverse("rango:index"))
+
+"""
 
 def get_server_side_cookie(request, cookie, default_val=None):
     val = request.session.get(cookie)
