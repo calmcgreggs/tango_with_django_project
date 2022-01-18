@@ -33,9 +33,9 @@ LOGIN_URL = "auth_login"
 SECRET_KEY = 'g6$6g&5zz*7^l%=opc%fy1vcwi9+w&m@3@zv3fcs$vyfe4q@p='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["2518508M.pythonanywhere.com"]
 
 
 # Application definition
